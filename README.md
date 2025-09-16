@@ -36,7 +36,7 @@ The ontology models core marketing concepts as follows:
 - **Conversion Event** *(Occurrent)*: A measurable action taken by a user in response to a campaign, such as submitting a form or making a purchase.
 - **Audience Segment** *(Independent Continuant)*: A defined group of individuals targeted by campaigns.
 - **Call to Action (CTA)** *(Dependent Continuant)*: A prompt designed to elicit a user response, such as clicking a button or signing up.
-- **Channel** *(Independent Continuant)*: The medium through which communications are delivered (e.g., email, social media).
+- **Channel** *(Independent Continuant)*: The medium through which communications are delivered, which are divided into front end channels (e.g., Meta, Google Search, Open Web, Smartnews, Newsbreak, Taboola, MGID, etc.) and back end channels (e.g., email, SMS, customer service, call centers, etc.). 
 - **Metric** *(Dependent Continuant)*: A quantitative property used to evaluate performance, such as conversion rate or cost per acquisition.
 
 **Relationships** include:
